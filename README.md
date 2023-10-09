@@ -11,3 +11,9 @@
     - transformers --4.6.1
 
 - Notice: To run the code below, you need to load the model from https://huggingface.co/cardiffnlp/twitter-roberta-base
+
+
+### About the task
+
+- It's a task of SMS message classification. There are 3 lables about the text [0, 1, 2] which represent nomal, spam and smishing respectively
+- So that we need to train a classifier to predict the class from the text.
