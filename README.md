@@ -10,4 +10,4 @@
     - cuda --11.3
     - transformers --4.6.1
 
-- Notice: To run the code below, you need to load the model from https://huggingface.co/cardiffnlp/twitter-roberta-base, and a new file named smishing_valid.txt which is extracted from the smishing_train.txt
+- Notice: To run the code below, you need to load the model from https://huggingface.co/cardiffnlp/twitter-roberta-base
